@@ -272,39 +272,6 @@ The following tests verify that the Nextcloud application can correctly perform 
 
 ---
 
-## Screenshots
-
-> Add screenshots below to document the deployment and test results.
-
-### Nextcloud Login Page
-![Nextcloud Login](screenshots/01-nextcloud-login.png)
-
-### Nextcloud Dashboard
-![Nextcloud Dashboard](screenshots/02-nextcloud-dashboard.png)
-
-### RDS Instance in AWS Console
-![RDS Instance](screenshots/03-rds-instance.png)
-
-### EC2 Security Group Rules
-![EC2 Security Group](screenshots/04-ec2-security-group.png)
-
-### RDS Security Group Rules
-![RDS Security Group](screenshots/05-rds-security-group.png)
-
-### CRUD – File Upload (Create)
-![File Upload](screenshots/06-crud-create.png)
-
-### CRUD – File List (Read)
-![File List](screenshots/07-crud-read.png)
-
-### CRUD – File Rename (Update)
-![File Rename](screenshots/08-crud-update.png)
-
-### CRUD – File Delete
-![File Delete](screenshots/09-crud-delete.png)
-
----
-
 ## How to Run
 
 ### Prerequisites
